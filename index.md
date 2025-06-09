@@ -11,8 +11,8 @@ I am always open to collaboration and discussions, whether with senior researche
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multi-Modal Learning:**  Multi-Modal Reasoning, Multi-Modal RLHF
+- **Reinforcement Learning:** Efficient RL algorithms for LLM and MLLM
 
 ## News
 
