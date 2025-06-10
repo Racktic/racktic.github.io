@@ -1,6 +1,6 @@
 main:
 
-  - title: RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness
+  - title: “RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness”
     authors: Tianyu Yu, Haoye Zhang, Qiming Li, <strong>Qixin Xu</strong>, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun.
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
