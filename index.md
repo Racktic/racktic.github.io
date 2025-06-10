@@ -24,3 +24,20 @@ I am always open to collaboration and discussions, whether with senior researche
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Honors & Awards
+
+- [2024] Outstanding Sports Scholarship of Tsinghua University
+- [2024] Comprehensive Excellence Award of Tsinghua University
+
+## Scholarships and Research Grants
+
+- [2025] ‘Sparking Program’, ¥5,000
+- [2024] Student Research Training, ¥5,000
+
+## Misc
+
+- I love playing basketball, and my favorite player is [Devin Booker](https://x.com/devinbook?lang=en).
+- I used to play [Bridge](https://en.wikipedia.org/wiki/Contract_bridge) and won the gold medal in the provincial contest as the youngest contestant.
+- In high school, I was quite into Math & Physics, and participated in Olympiad in Math and Olympiad in Physics.
+
