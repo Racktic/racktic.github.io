@@ -17,7 +17,7 @@ I am always open to collaboration and discussions, whether with senior researche
 ## News
 
 - **[May. 2025]** I finished the first phase of **Sparking Program**, the most prestigious and selective academic organization for students at Tsinghua University.
-- **[Jan. 2025]** **RLAIF-V** is accepted by *CVPR 2025*，and selected as Highlight!
+- **[Jan. 2025]** **RLAIF-V** is accepted by *CVPR 2025*, and selected as Highlight!
 - **[Nov. 2024]** Honored to receive Comprehensive Excellence Award of Tsinghua.
 - **[Nov. 2024]** Glad to receive Outstanding Sports Scholarship of Tsinghua.
 
