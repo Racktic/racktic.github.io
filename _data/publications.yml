@@ -1,7 +1,7 @@
 main:
 
   - title: "RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness"
-    authors: "Tianyu Yu, Haoye Zhang, Qiming Li, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun."
+    authors: "Tianyu Yu, Haoye Zhang, Qiming Li, <strong>Qixin Xu</strong>, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun."
     conference_short: "CVPR"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025."
     pdf: "https://arxiv.org/abs/2405.17220"
@@ -10,7 +10,7 @@ main:
     notes: "Highlight"
 
   - title: "Process Reinforcement through Implicit Rewards"
-    authors: "Ganqu Cui, Lifan Yuan, Zefan Wang, Hanbin Wang, Wendi Li, Bingxiang He, Yuchen Fan, Qixin Xu, Tianyu Yu, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding"
+    authors: "Ganqu Cui, Lifan Yuan, Zefan Wang, Hanbin Wang, Wendi Li, Bingxiang He, Yuchen Fan, <strong>Qixin Xu</strong>, Tianyu Yu, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding"
     conference_short: "Under Peer Review"
     conference: "Under Peer Review"
     pdf: "https://arxiv.org/abs/2502.01456"
