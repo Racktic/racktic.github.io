@@ -16,10 +16,10 @@ I am always open to collaboration and discussions, whether with senior researche
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2025]** I finished the first phase of **Sparking Program**, the most prestigious and selective academic organization for students at Tsinghua University.
+- **[Jan. 2025]** **RLAIF-V** is accepted by *CVPR 2025*，and selected as Highlight!
+- **[Nov. 2024]** Honored to receive Comprehensive Excellence Award of Tsinghua.
+- **[Nov. 2024]** Glad to receive Outstanding Sports Scholarship of Tsinghua.
 
 {% include_relative _includes/publications.md %}
 
