@@ -23,8 +23,6 @@ I am always open to collaboration and discussions, whether with senior researche
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
-
 ## Honors & Awards
 
 - [2024] Outstanding Sports Scholarship of Tsinghua University
