@@ -32,7 +32,7 @@ Currently, my research interests include:
 - [2024] Outstanding Sports Scholarship of Tsinghua University
 - [2024] Comprehensive Excellence Award of Tsinghua University
 
-## Scholarships & Research Grants
+## Research Grants
 
 - [2025] Sparking Program, ¥5,000
 - [2024] Student Research Training, ¥5,000
