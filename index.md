@@ -11,10 +11,10 @@ I am always open to collaboration and discussions, whether with senior researche
 
 ## Research Interests
 
-My research goal is to develop Multi-Modal models with human-like understanding and apply these to obtain general decision intelligence. Currently, my research interests include:
+My research goal is to develop Multi-Modal models that exhibit human-like understanding, with the ultimate aim of leveraging these models to achieve general decision-making intelligence. Currently, my research interests include:
 
-- **Multi-Modal Learning:**  Multi-Modal Reasoning (tool use, self-reflection), Multi-Modal RLHF 
-- **Reinforcement Learning:** Efficient and scalable RL algorithms for MLLM and LLM
+- **Multi-Modal Learning:**  Multi-Modal Reasoning (e.g. Tool-use, Self-reflection), Multi-Modal RLHF 
+- **Reinforcement Learning:** Efficient and Scalable RL algorithms for MLLM and LLM
 
 ## News
 
