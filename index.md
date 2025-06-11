@@ -11,8 +11,10 @@ I am always open to collaboration and discussions, whether with senior researche
 
 ## Research Interests
 
-- **Multi-Modal Learning:**  Multi-Modal Reasoning, Multi-Modal RLHF
-- **Reinforcement Learning:** Efficient RL algorithms for LLM and MLLM
+My research goal is to develop Multi-Modal models with human-like understanding and apply these to obtain general decision intelligence. Currently, my research interests include:
+
+- **Multi-Modal Learning:**  Multi-Modal Reasoning (tool use, self-reflection), Multi-Modal RLHF 
+- **Reinforcement Learning:** Efficient and scalable RL algorithms for MLLM and LLM
 
 ## News
 
@@ -28,9 +30,9 @@ I am always open to collaboration and discussions, whether with senior researche
 - [2024] Outstanding Sports Scholarship of Tsinghua University
 - [2024] Comprehensive Excellence Award of Tsinghua University
 
-## Scholarships and Research Grants
+## Scholarships & Research Grants
 
-- [2025] ‘Sparking Program’, ¥5,000
+- [2025] Sparking Program, ¥5,000
 - [2024] Student Research Training, ¥5,000
 
 ## Misc
