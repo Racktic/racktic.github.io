@@ -172,3 +172,18 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 .fakelink { text-decoration: none; cursor: pointer; }
 
 .bibref { font-size: 70%; margin-top: 10px; margin-left: 0px; display: none; font-family: monospace; }
+
+.image.avatar {
+  width: 120px; /* 设置头像容器的宽度 */
+  height: 120px; /* 设置头像容器的高度 */
+  border-radius: 50%; /* 设置为圆形 */
+  margin: 0 auto; /* 使头像居中 */
+}
+
+/* 控制头像图片的样式 */
+.image.avatar img {
+  width: 100%; /* 让图片适应容器的宽度 */
+  height: 100%; /* 让图片适应容器的高度 */
+  object-fit: cover; /* 保持图片比例，同时填充容器 */
+  border-radius: 50%; /* 使图片也是圆形 */
+}
