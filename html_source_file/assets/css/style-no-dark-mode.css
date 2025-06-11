@@ -160,7 +160,7 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .image.avatar {
   width: 120px; /* 设置头像容器的宽度 */
-  height: 120px; /* 设置头像容器的高度 */
+  height: 160px; /* 设置头像容器的高度 */
   border-radius: 50%; /* 设置为圆形 */
   margin: 0 auto; /* 使头像居中 */
 }
