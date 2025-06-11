@@ -5,9 +5,9 @@ layout: homepage
 
 I am currently an undergraduate student at the [Department of Computer Science](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), beginning in the Fall of 2023. I am pursuing a major in Computer Science and a minor in Statistics.
 
-In the summer of 2024, I had the privilege of joining the [THUNLP](https://nlp.csai.tsinghua.edu.cn/) group, under the supervision of Professor [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
+In the summer of 2024, I joined [THUNLP](https://nlp.csai.tsinghua.edu.cn/), under the supervision of Professor [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
 
-I am always open to collaboration and discussions, whether with senior researchers or fellow peers. Please do not hesitate to reach out.
+I am always open to collaboration and discussions, whether with senior researchers or fellow peers. Please feel free to reach out!
 
 ## Research Interests
 
