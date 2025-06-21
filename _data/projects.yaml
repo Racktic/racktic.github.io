@@ -20,5 +20,6 @@ main:
 
   - title: "Watch And Learn: Empowering MLLMs to Count Like Humans"
     authors: "We propose the Watch-and-Learn framework, which enables continuous visual perception during counting by integrating two function calls, “Point Annotation” and “See Image.” This approach allows the model to iteratively process visual information, improving its reasoning ability."
+    pdf: "./assets/files/Watch_And_Learn__Empowering_MLLMs_to_Count_Like_Humans.pdf"
     code: "https://github.com/Racktic/DataMining-Project"
     image: "./assets/img/counting.png"
