@@ -2,15 +2,18 @@
 main:
 
   - title: "SBSPO : Self-Bootstrapping Mitigates Object Hallucination via Preference Optimization"
-    authors: "We propose a Self-BootStrapping Preference Optimization algorithm. SBSPO leverages the full potential of open-source MLLMs from two key perspectives: (1) as a policy model within a reinforcement learning framework, and (2) as an implicit reward model that facilitates the generation of high-quality feedback data for preference learning"
+    authors: "Proposed a Self-BootStrapping Preference Optimization algorithm. SBSPO leverages the full potential of open-source MLLMs from two key perspectives: (1) as a policy model within a reinforcement learning framework, and (2) as an implicit reward model that facilitates the generation of high-quality feedback data for preference learning"
     pdf: "./assets/files/DL_Project_2024_Autumn.pdf"
     code: "https://github.com/RLHF-V/RLAIF-V"
     image: "./assets/img/sbspo.png"
 
-  - title: "Process Reinforcement through Implicit Rewards"
-    authors: "Ganqu Cui*, Lifan Yuan*, Zefan Wang*, Hanbin Wang*, Wendi Li*, Bingxiang He*, Yuchen Fan*, <strong>Qixin Xu*</strong>, Tianyu Yu*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding†"
-    conference_short: "Under Peer Review"
-    conference: "Under Peer Review"
-    pdf: "https://arxiv.org/abs/2502.01456"
+  - title: "Tsinghua University Second-hand Book Trading Platform"
+    authors: "Built one second-hand book trading platform, specially customized for Tsinghua University students."
     code: "https://github.com/PRIME-RL/PRIME"
-    image: "./assets/img/prime.png"
+    image: "./assets/img/course_sharing_platform.png"
+
+  - title: "MarTech Challenge: User Purchase Prediction"
+    authors: "Adopt feature engineering and mining algorithm to help predicting user purchase behavior."
+    code: "https://github.com/Racktic/DataMining-Project"
+    image: "./assets/img/data_mining.png"
+    notes："3rd place in Baidu Inc. Data Mining Competition"
