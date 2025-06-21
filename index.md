@@ -20,7 +20,7 @@ Currently, my research interests include:
 
 ## News
 
-- **[June. 2025]** I led my team got **No.3** out of 400+ teams at a Baidu Inc. Data Mining Competition.
+- **[June. 2025]** I led my team to get **No.3** out of 400+ teams at a Baidu Inc. Data Mining Competition.
 - **[May. 2025]** I finished the first phase of **Sparking Program**, the most prestigious and selective academic organization for students at Tsinghua University.
 - **[Jan. 2025]** **RLAIF-V** is accepted by *CVPR 2025*, and selected as Highlight!
 - **[Nov. 2024]** Honored to receive Comprehensive Excellence Award of Tsinghua.
