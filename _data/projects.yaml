@@ -1,14 +1,11 @@
 
 main:
 
-  - title: "RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness"
-    authors: "Tianyu Yu, Haoye Zhang, Qiming Li, <strong>Qixin Xu</strong>, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu†, Tat-Seng Chua, Maosong Sun."
-    conference_short: "CVPR"
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025."
-    pdf: "https://arxiv.org/abs/2405.17220"
+  - title: "SBSPO : Self-Bootstrapping Mitigates Object Hallucination via Preference Optimization"
+    authors: "We propose a Self-BootStrapping Preference Optimization algorithm. SBSPO leverages the full potential of open-source MLLMs from two key perspectives: (1) as a policy model within a reinforcement learning framework, and (2) as an implicit reward model that facilitates the generation of high-quality feedback data for preference learning"
+    pdf: "./assets/files/DL_Project_2024_Autumn.pdf"
     code: "https://github.com/RLHF-V/RLAIF-V"
-    image: "./assets/img/rlaifv.png"
-    notes: "Highlight"
+    image: "./assets/img/sbspo.png"
 
   - title: "Process Reinforcement through Implicit Rewards"
     authors: "Ganqu Cui*, Lifan Yuan*, Zefan Wang*, Hanbin Wang*, Wendi Li*, Bingxiang He*, Yuchen Fan*, <strong>Qixin Xu*</strong>, Tianyu Yu*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding†"
