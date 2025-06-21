@@ -9,7 +9,7 @@ main:
 
   - title: "Tsinghua University Second-hand Book Trading Platform"
     authors: "Built one second-hand book trading platform, specially customized for Tsinghua University students."
-    code: "https://github.com/PRIME-RL/PRIME"
+    code: "https://github.com/Racktic/Tsinghua-University-Second-hand-Book-Trading-Platform"
     image: "./assets/img/course_sharing_platform.png"
 
   - title: "MarTech Challenge: User Purchase Prediction"
