@@ -27,6 +27,7 @@ Currently, my research interests include:
 - **[Nov. 2024]** Glad to receive Outstanding Sports Scholarship of Tsinghua.
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/projects.md %}
 
 ## Honors & Awards
 
